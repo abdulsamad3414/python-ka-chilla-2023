@@ -9,4 +9,5 @@
 # 7-prettier code formatter
 # 8-blackbox   AI baesed automaic tool ha .....# //how to calculate square in python give me code ?
 # 9- codeium
+# 10- excel viewer
 # //how to calculate square in python give me code 
