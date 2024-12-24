@@ -1,6 +1,1 @@
-,samad1=pd.DataFrame([
-0,"['1','1234','3838']"
-1,",['2','7878','9392']"
-2,"]),"
-3,"columns=['user_id','zip','location']"
-4,samad1.head()
+,D:\python,ka,chilla,2023\day_8\AbdulSamad.csv
