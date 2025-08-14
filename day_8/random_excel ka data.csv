@@ -1,1 +1,2 @@
-,D:\python,ka,chilla,2023\day_8\AbdulSamad.csv
+,max_values_df,=,"pd.DataFrame(max_values,",columns=['Max,Value'])
+0,print(max_values_df),,,,
