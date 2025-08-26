@@ -1,5 +1,5 @@
 import pandas as pd
-import streamlit as st
+import Day_30_streamlit.Dashboard as st
 from sklearn.ensemble import RandomForestClassifier
 
 st.write(" # Random forest Classification App")
